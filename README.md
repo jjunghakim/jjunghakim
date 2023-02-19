@@ -62,6 +62,6 @@
 
 <div align="center">
     
-![Jungha's github stats](https://github-readme-stats.vercel.app/api?username=Jungha&show_icons=true)
+![Jungha's github stats](https://github-readme-stats.vercel.app/api?username=jjunghakim&show_icons=true)
     
 </div>
